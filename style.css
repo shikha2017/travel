@@ -1,0 +1,101 @@
+body{
+  background: url(Images/6.jpeg) no-repeat center center fixed;
+-webkit-background-size:cover;
+background-size: cover;
+
+
+}
+.rowheight{
+  height: 100px;
+
+}
+.h1{
+  color: #000;
+  font-size: 2.5em;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.bg{
+  background-color: DarkSlateGrey;
+  opacity: 0.9;
+}
+.g{
+  background-color:pink;
+  opacity: 0.8;
+}
+.footer{
+  background-color: #fff;
+  bottom:0 ;
+  height: 500;
+  width:1000;
+  opacity: 0.8;
+
+}
+.p{
+  font-size: 18px;
+  padding: 10px;
+}
+.l{
+  position: absolute;
+    top: 530px;
+    right: 0;
+    width: 400px;
+    height: 100px;
+}
+.k{
+  width: 1000px;
+  height: 330px;
+    background: url(Images/GREEN.jpeg);
+   position:center;
+}
+.con{
+    position:relative;
+    background-color: white;
+    height: 60vh;
+    width: 800px;
+    left:0;
+    right:10;
+    opacity: 0.8;
+
+}
+
+  .green{
+    background-color: green;
+    /*height: 200px;*/
+  }
+  .orange{
+    background-color: orange;
+  }
+  .rowheigh{
+    background-color: #000;
+    height: 200px;
+  }
+.s{
+  height: 50vh;
+}
+.white{
+  background-color: white;
+}
+.work{
+
+  background-color: white;
+  height: 40vh;
+  width: 1150px;
+
+
+}
+.btn-circle.btn-xl {
+  width: 100px;
+  height: 100px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+.btn-circle.btn-xln {
+  width: 350px;
+  height: 100px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
